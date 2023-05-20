@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a rastrear os hábitos.
 
--[Visite o projeto oline](https://esio1998.github.io/nlw-setup)
+-[Visite o projeto oline](https://esioalmeida.github.io/nlw-setup)
 
 ## 🔖 Layout
 
